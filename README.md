@@ -4,7 +4,7 @@ Exercicio de pesquisa de texto implementando um algorítimo de busca de texto co
 - [Web Scraping com Python](https://novatec.com.br/livros/web-scraping-com-python-2ed/) 
 - [Data Science do Zero]()
 
-O exercçio terão os seguintes passos:
+O exercício com os seguintes passos:
 - [X] - Criar repositório no github 
 - [ ] - Baixar transcrições
 - [ ] - Leitura dos e armazenamento
