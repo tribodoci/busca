@@ -7,7 +7,7 @@ Exercicio de pesquisa de texto implementando um algorítimo de busca de texto co
 Etapas:
 - [X] - Criar repositório no github 
 - [ ] - Baixar transcrições
-- [ ] - Leitura dos e armazenamento
+- [ ] - Leitura dos arquivos e mapear em um banco de dados
 - [ ] - Blog Post
 
 ## Criar repositório no github
@@ -20,7 +20,7 @@ Campo           | Descrição
 ```id```        | Campo único de Identificação do Episódio
 ```link```      | Link para o episódio
 ```descricao``` | Breve resumo do episódio
-```arquivo```   | Nome do Arquivo com a decrição
+```arquivo```   | Nome do Arquivo com a descrição
 
 Poderia ser feito uma cópia dos arquivos nesse mesmo repositório, mas baixar direto do repositório facilita o treinamento quando for uma revisão da transcrição e então poder efetuar o treinamento novamente.
 
