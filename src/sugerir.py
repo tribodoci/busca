@@ -61,6 +61,7 @@ try:
                 palavra.id = d_palavra.d_palavra_id
                 GROUP BY
                 palavra.palavra
+                LIMIT 5
             """
 
             cur.execute(sql, (word_id))
