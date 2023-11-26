@@ -9,7 +9,7 @@ Etapas:
 - [ ] - Baixar transcrições
   - [X] - Solução itermediária, baixar os arquivos locais
 - [ ] - Leitura dos arquivos e mapear em um banco de dados
-  - [ ] - [doc/](Mapeamento das palavaras e dos documentos) 
+  - [ ] - [Mapeamento das palavaras e dos documentos](./doc/) 
 - [ ] - Blog Post
 
 ## Criar repositório no github
