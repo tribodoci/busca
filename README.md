@@ -1,5 +1,5 @@
 # Busca de Texto
-Exercicio de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um llm pois o texto para treinamento é muito pequeno e é um texto de 
+Exercício de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um ```llm``` (large language model) pois o texto para treinamento é muito pequeno. Foi usado a  
 - [Inteligencia Coletiva]()
 - [Web Scraping com Python](https://novatec.com.br/livros/web-scraping-com-python-2ed/) 
 - [Data Science do Zero]()
@@ -7,7 +7,9 @@ Exercicio de pesquisa de texto implementando um algorítimo de busca de texto co
 Etapas:
 - [X] - Criar repositório no github 
 - [ ] - Baixar transcrições
+  - [X] - Solução itermediária, baixar os arquivos locais
 - [ ] - Leitura dos arquivos e mapear em um banco de dados
+  - [ ] - [doc/](Mapeamento das palavaras e dos documentos) 
 - [ ] - Blog Post
 
 ## Criar repositório no github
