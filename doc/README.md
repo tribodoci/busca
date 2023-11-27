@@ -1,6 +1,6 @@
 Architecture decision record (ADR)
 ===
-> _Em tradução livre "Registro de decisões de Arquiteturais"_
+> _Em tradução livre "Registro de decisões Arquiteturais"_
 
 Para primeira versão do sistema de sugestão, uma espécie de ```type ahead```...
 
