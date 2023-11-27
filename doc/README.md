@@ -9,7 +9,7 @@ Resultado das primeira versão.
 ![sugerir.py resultado pesquisa termo festival](img/sugerir-festival.png)
 
 > **Alguns vídeos que falam sobre**:
-> - [**The Unreasonable Effectiveness Of Plain Text** no canal do YouTube NoBoilerPlat (em ingles)](https://www.youtube.com/watch?v=WgV6M1LyfNY)
+> - [**The Unreasonable Effectiveness Of Plain Text** no canal do YouTube NoBoilerPlat (em inglês)](https://www.youtube.com/watch?v=WgV6M1LyfNY)
 > - [O que são ADRs (Architecture Decision Records)? por André Secco no YouTube](https://www.youtube.com/watch?v=5AjYSJrCnS0)
 
 >**Links**:
