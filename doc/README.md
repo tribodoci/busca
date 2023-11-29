@@ -15,5 +15,13 @@ Resultado das primeira versão.
 >**Links**:
 > - [TypeAhead](https://twitter.github.io/typeahead.js/examples/)
 
+### Esquema do banco de dados
+
+![database busca tabelas](img/db-busca.png)
+
+### A fazer
+- Solução não SQL dependente
+- Mudar de MySQL para SQLite
+- Estudo de ngram
 ### Histórico
 - ...
