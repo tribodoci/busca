@@ -19,8 +19,44 @@ Resultado das primeira versão.
 
 ![database busca tabelas](img/db-busca.png)
 
+> Tabela: ```documento```
+
+Campo           | Descrição
+--------------- | -------
+```id```        | Campo único de Identificação do Episódio
+```link```      | Link para o episódio
+```descricao``` | Breve resumo do episódio
+```arquivo```   | Nome do Arquivo com a descrição
+
+> Tabela: ```palavra```
+
+Campo           | Descrição
+--------------- | -------
+```id```        | Campo único de Identificação da Palavra
+```palavra```   | Palavra
+
+> Tabela: ```documento_palavra```
+
+Campo           | Descrição
+--------------- | -------
+```id```        | Chave
+```documento_id```| id do documento
+```palavra_id```| id da palavra
+```posicao```| posicao da palavra no documento
+
+> Tabela: ```documento_palavra_distancia``` _ainda não utilizada_
+
+Campo           | Descrição
+--------------- | -------
+```id```        | Chave
+```documento_id```| id do documento
+```palavra_id```| id da palavra
+```d_palavra_id```| id da palavra
+```distancia```| distância entra as duas palavras (```palavra_id```,```d_palavra_id```)
+
 ### A fazer
 - Solução não SQL dependente
+    - Distancia palavra via ```SELECT``` fazendo o pré-processamento e utilizando a tabela ```documento_palavra_distancia```
 - Mudar de MySQL para SQLite
 - Estudo de ngram
 ### Histórico
