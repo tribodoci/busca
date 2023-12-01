@@ -65,6 +65,8 @@ Campo           | Descrição
 - Solução não SQL dependente
     - Distancia palavra via ```SELECT``` fazendo o pré-processamento e utilizando a tabela ```documento_palavra_distancia```
 - Mudar de MySQL para SQLite
+- Nome do banco de dados via configuração ou env
 - Estudo de ngram
+    - Buscar distância
 ### Histórico
 - ...
