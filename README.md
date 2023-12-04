@@ -27,7 +27,7 @@ Campo           | Descrição
 Poderia ser feito uma cópia dos arquivos nesse mesmo repositório, mas baixar direto do repositório facilita o treinamento quando for uma revisão da transcrição e então poder efetuar o treinamento novamente.
 Por enquanto pode baixar o repositório com as trasncrições com o git:
 ```shell
-git clone https://github.com/tribodoci/tribodoci-podcast-transcript
+git clone https://github.com/tribodoci/tribodoci-podcast-transcript.git
 ```
 O caminho no arquivo [src/documentos.csv](src/documentos.csv) está considerando que o código do repositório estão na mesma pasta.
 
