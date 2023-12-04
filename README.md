@@ -7,7 +7,7 @@ Exercício de pesquisa de texto implementando um algorítimo de busca de texto c
 Etapas:
 - [X] - Criar repositório no github 
 - [ ] - Baixar transcrições
-  - [X] - Solução itermediária, baixar os arquivos locais
+  - [X] - [Solução itermediária, baixar os arquivos locais](#baixar-transcrições)
 - [ ] - Leitura dos arquivos e mapear em um banco de dados
   - [ ] - [Mapeamento das palavaras e dos documentos](./doc/) 
 - [ ] - Blog Post
@@ -15,7 +15,7 @@ Etapas:
 ## Criar repositório no github
 Esse reposótiorio, a idéia é documentar cada passo 
 ## Baixar transcrições
-Baixar a transcrição dos episódios do repositório, filtrar os *.txt, utilizar o csv com os campos.
+Baixar a transcrição dos episódios do repositório, filtrar os ```*.txt```, utilizar o csv com os campos.
 
 Campo           | Descrição
 --------------- | -------
