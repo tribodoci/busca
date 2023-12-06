@@ -2,7 +2,7 @@
 Exercício de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um ```llm``` (large language model) pois o texto para treinamento é muito pequeno. Foi usado como referência os seguintes libros:
 - [Programando A Inteligencia Coletiva - Toby Segaran - 2008](https://altabooks.com.br/)
 - [Web Scraping com Python - 2ª Edição - Ryan Mitchell - 2019](https://novatec.com.br/livros/web-scraping-com-python-2ed/) 
-- [Data Science do Zero]()
+- [Data Science do Zero - Joel Grus - 2016](https://altabooks.com.br/produto/data-science-do-zero/)
 
 Lembrando que esse não é um projeto pronto para produção, é um exercício de programação de criação de um banco de dados de vetor em uma abordagem relacional.
 
