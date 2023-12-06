@@ -1,8 +1,10 @@
 # Busca de Texto
-Exercício de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um ```llm``` (large language model) pois o texto para treinamento é muito pequeno. Foi usado a  
+Exercício de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um ```llm``` (large language model) pois o texto para treinamento é muito pequeno. Foi usado como referência os seguintes libros:
 - [Inteligencia Coletiva]()
 - [Web Scraping com Python](https://novatec.com.br/livros/web-scraping-com-python-2ed/) 
 - [Data Science do Zero]()
+
+Lembrando que esse não é um projeto pronto para produção, é um exercício de programação de criação de um banco de dados de vetor em uma abordagem relacional.
 
 Etapas:
 - [X] - Criar repositório no github 
@@ -36,3 +38,6 @@ Ver [doc/](doc/)
 
 ## Blog Post
 Escrever sobre a solução em um blogpost na [Tribo do C.I.](https://tribodoci.net).
+
+## Referencias
+- [RETVec: Resilient & Efficient Text Vectorizer](https://github.com/google-research/retvec)
