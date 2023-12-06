@@ -1,5 +1,5 @@
 # Busca de Texto
-Exercício de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um ```llm``` (large language model) pois o texto para treinamento é muito pequeno. Foi usado como referência os seguintes livros:
+Exercício de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um [```llm``` (large language model)](https://arxiv.org/abs/1706.03762) pois o texto para treinamento é muito pequeno. Foi usado como referência os seguintes livros:
 - [Programando A Inteligencia Coletiva - Toby Segaran - 2008](https://altabooks.com.br/)
 - [Web Scraping com Python - 2ª Edição - Ryan Mitchell - 2019](https://novatec.com.br/livros/web-scraping-com-python-2ed/) 
 - [Data Science do Zero - Joel Grus - 2016](https://altabooks.com.br/produto/data-science-do-zero/)
@@ -41,3 +41,4 @@ Escrever sobre a solução em um blogpost na [Tribo do C.I.](https://tribodoci.n
 
 ## Referencias
 - [RETVec: Resilient & Efficient Text Vectorizer](https://github.com/google-research/retvec)
+- [Paper - Attention Is All You Need](https://arxiv.org/abs/1706.03762)
