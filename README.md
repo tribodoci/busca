@@ -1,6 +1,6 @@
 # Busca de Texto
 Exercício de pesquisa de texto implementando um algorítimo de busca de texto completo (fulltext search). Não é um ```llm``` (large language model) pois o texto para treinamento é muito pequeno. Foi usado como referência os seguintes libros:
-- [Inteligencia Coletiva]()
+- [Programando A Inteligencia Coletiva - Toby Segaran - 2008](https://altabooks.com.br/)
 - [Web Scraping com Python](https://novatec.com.br/livros/web-scraping-com-python-2ed/) 
 - [Data Science do Zero]()
 
