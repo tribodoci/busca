@@ -39,6 +39,6 @@ Ver [doc/](doc/)
 ## Blog Post
 Escrever sobre a solução em um blogpost na [Tribo do C.I.](https://tribodoci.net).
 
-## Outrs Referências
+## Outras Referências
 - [RETVec: Resilient & Efficient Text Vectorizer](https://github.com/google-research/retvec)
 - [Paper - Attention Is All You Need](https://arxiv.org/abs/1706.03762)
