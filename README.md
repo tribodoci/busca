@@ -4,7 +4,7 @@ Exercício de pesquisa de texto implementando um algorítimo de busca de texto c
 - [Web Scraping com Python - 2ª Edição - Ryan Mitchell - 2019](https://novatec.com.br/livros/web-scraping-com-python-2ed/) 
 - [Data Science do Zero - Joel Grus - 2016](https://altabooks.com.br/produto/data-science-do-zero/)
 
-Lembrando que esse não é um projeto pronto para produção, é um exercício de programação de criação de um banco de dados de vetor em uma abordagem relacional.
+Lembrando que esse não é um projeto pronto para produção, é um exercício de programação de criação de um banco de dados de vetor em uma abordagem relacional, utilizando um algorítimo de contagem.
 
 Etapas:
 - [X] - Criar repositório no github 
