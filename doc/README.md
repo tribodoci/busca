@@ -18,6 +18,8 @@ Resultado das primeira versão.
 > **Alguns vídeos que falam sobre ADR**:
 > - [**The Unreasonable Effectiveness Of Plain Text** no canal do YouTube NoBoilerPlat (em inglês)](https://www.youtube.com/watch?v=WgV6M1LyfNY)
 > - [O que são ADRs (Architecture Decision Records)? por André Secco no YouTube](https://www.youtube.com/watch?v=5AjYSJrCnS0)
+> - [ADR - Architecture Decision Record por 
+Cristiano Cunha](https://youtu.be/dabIyPbOytQ)
 
 >**Links**:
 > - [TypeAhead](https://twitter.github.io/typeahead.js/examples/)
