@@ -41,3 +41,4 @@ Escrever sobre a solução em um blogpost na [Tribo do C.I.](https://tribodoci.n
 ## Outras Referências
 - [RETVec: Resilient & Efficient Text Vectorizer](https://github.com/google-research/retvec)
 - [Paper - Attention Is All You Need](https://arxiv.org/abs/1706.03762)
+- [ChromaDB - Chroma is the open-source AI application database. Batteries included](https://www.trychroma.com/)
